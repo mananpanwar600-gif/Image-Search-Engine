@@ -69,12 +69,14 @@ If a pretrained model is used only for inference, custom annotation is not manda
 - **Interface:** Command-line interface or web interface, depending on implementation
 
 ## UI Workflow
-<img width="1920" height="1080" alt="Untitled - October 16, 2026 at 19 52 30 (1)" src="https://github.com/user-attachments/assets/079ffc08-762d-4f47-b695-31ebf9feec45" />
 
-<img width="1920" height="1080" alt="Untitled - October 16, 2026 at 19 52 30 (4)" src="https://github.com/user-attachments/assets/a17ce3ca-c77e-461d-b45d-c98f55dccf3e" />
+<img width="1672" height="941" alt="UI Flowchart_ Load and Process Paths" src="https://github.com/user-attachments/assets/2897b4cc-b5ec-406b-b59a-c008a5550a79" />
 
 
-<img width="1920" height="1080" alt="Untitled - October 16, 2026 at 19 52 30 (3)" src="https://github.com/user-attachments/assets/d42b63fc-0153-4deb-b176-0d34be625795" />
+<img width="1672" height="941" alt="Neon Search UI Workflow Diagram" src="https://github.com/user-attachments/assets/06601bec-a49a-4359-a374-74d433db8e8d" />
+
+
+<img width="1672" height="940" alt="Neon UI Flowchart Diagram" src="https://github.com/user-attachments/assets/fe30b524-ea1a-46d2-9d93-b8f827ad7c0e" />
 
 
 
