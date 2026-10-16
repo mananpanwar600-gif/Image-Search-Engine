@@ -71,7 +71,8 @@ If a pretrained model is used only for inference, custom annotation is not manda
 ## UI Workflow
 <img width="1920" height="1080" alt="Untitled - October 16, 2026 at 19 52 30 (1)" src="https://github.com/user-attachments/assets/079ffc08-762d-4f47-b695-31ebf9feec45" />
 
-<img width="1920" height="1080" alt="Untitled - October 16, 2026 at 19 52 30 (2)" src="https://github.com/user-attachments/assets/491acede-d9ee-417d-982f-ae1e981762ed" />
+<img width="1920" height="1080" alt="Untitled - October 16, 2026 at 19 52 30 (4)" src="https://github.com/user-attachments/assets/a17ce3ca-c77e-461d-b45d-c98f55dccf3e" />
+
 
 <img width="1920" height="1080" alt="Untitled - October 16, 2026 at 19 52 30 (3)" src="https://github.com/user-attachments/assets/d42b63fc-0153-4deb-b176-0d34be625795" />
 
