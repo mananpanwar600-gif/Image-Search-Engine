@@ -43,6 +43,9 @@ To develop a YOLO-powered image search system that detects and classifies object
 7. **Retrieval:** Find images containing the requested object.
 8. **Output:** Display matching images and detection information.
 9. **Export:** Save selected results as a JSON file.
+    
+<img width="1920" height="1080" alt="Untitled - October 16, 2026 at 19 52 30" src="https://github.com/user-attachments/assets/45245eab-025e-47bc-b964-5e0ea48abee7" />
+
 
 ## Dataset Annotation and Review
 
@@ -64,6 +67,18 @@ If a pretrained model is used only for inference, custom annotation is not manda
 - **Data Storage:** JSON
 - **Development Environment:** Jupyter Notebook / Python
 - **Interface:** Command-line interface or web interface, depending on implementation
+
+## UI Workflow
+
+<img width="1672" height="941" alt="UI Flowchart_ Load and Process Paths" src="https://github.com/user-attachments/assets/2897b4cc-b5ec-406b-b59a-c008a5550a79" />
+
+
+<img width="1672" height="941" alt="Neon Search UI Workflow Diagram" src="https://github.com/user-attachments/assets/06601bec-a49a-4359-a374-74d433db8e8d" />
+
+
+<img width="1672" height="940" alt="Neon UI Flowchart Diagram" src="https://github.com/user-attachments/assets/fe30b524-ea1a-46d2-9d93-b8f827ad7c0e" />
+
+
 
 ## Project Structure
 
