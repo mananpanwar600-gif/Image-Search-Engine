@@ -2,6 +2,7 @@ from pathlib import Path
 import json
 
 
+
 def ensure_processed_dir(raw_path):
     raw_path = Path(raw_path)
     processed_path = raw_path.parent.parent/"processed"/raw_path.name
@@ -45,4 +46,3 @@ def get_unique_classes_counts(metadata):
         count_options[cls] = sorted(count_options[cls])
 
     return unique_classes, count_options
-
