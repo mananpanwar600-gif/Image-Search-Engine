@@ -82,3 +82,60 @@ If a pretrained model is used only for inference, custom annotation is not manda
 
 ## Project Structure
 
+```text
+Yolo Powered Image Search
+├── configs/
+│   └── default.yaml
+├── src/
+│   ├── config.py
+│   ├── inference.py
+│   └── utils.py
+├── .gitignore
+├── app.py
+├── README.md
+├── requirements.txt
+
+```
+## Requirements
+
+The project relies on the following Python packages:
+
+```text
+ultralytics
+streamlit
+opencv-python
+pyyaml
+torch 
+torchvision
+pillow
+pandas
+numpy
+```
+
+## Setup & Installation
+
+### 1. Create and Activate Conda Environment
+
+First, create a new Conda environment with Python 3.12 and activate it:
+
+```bash
+conda create -n yolo_image_search python=3.12
+conda activate yolo_image_search
+```
+
+### 2. Install Dependencies
+
+The project relies on the following Python packages. Install them using `pip`:
+
+```bash
+pip install ultralytics streamlit opencv-python pyyaml torch torchvision pillow pandas numpy
+```
+
+*(Note: Depending on your hardware setup, you may want to install a specific version of PyTorch with CUDA support from [pytorch.org](https://pytorch.org) beforehand).*
+
+## Running the Application
+
+To launch the Streamlit app, run the following command in your terminal:
+
+```bash
+streamlit run app.py
